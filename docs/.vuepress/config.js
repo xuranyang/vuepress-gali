@@ -6,6 +6,7 @@ import {viteBundler} from '@vuepress/bundler-vite'
 export default defineUserConfig({
     lang: 'zh-CN',
 
+    base: '/vuepress-gali',
     title: '你好， 天命人 ！',
     description: '放马西行，直面天命',
 
